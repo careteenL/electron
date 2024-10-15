@@ -1,0 +1,12 @@
+{
+  "name": "clock",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "src/main/index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^19.1.9"
+  }
+}
